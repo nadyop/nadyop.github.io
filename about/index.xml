@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Hello World!</title>
+    <link>http://example.com/about/</link>
+    <description>Recent content in Abouts on Hello World!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.com/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://example.com/about/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/about/project1/</guid>
+      <description>title: &amp;ldquo;Blog&amp;rdquo; description: &amp;ldquo;Hanya coretan bayangan&amp;rdquo; #repo: &amp;ldquo;/nadyop.github.io&amp;rdquo; # delete this line if you want blog-like posts for projects tags: [&amp;ldquo;go&amp;rdquo;, &amp;ldquo;golang&amp;rdquo;, &amp;ldquo;hugo&amp;rdquo;] weight: 1
+draft: true Kindly to check : https://github.com/nadyop/nadyop.github.io &amp;ndash;&amp;gt;</description>
+    </item>
+    
+  </channel>
+</rss>

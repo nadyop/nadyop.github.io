@@ -13,7 +13,16 @@
   </url>
   
   <url>
+    <loc>http://example.com/about/project1/</loc>
+  </url>
+  
+  <url>
     <loc>http://example.com/project/project1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/about/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
