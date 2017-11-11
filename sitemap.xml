@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.com/project/project1/</loc>
-  </url>
-  
-  <url>
     <loc>http://example.com/post/cerita-dulu/</loc>
     <lastmod>2017-11-11T00:00:00+00:00</lastmod>
   </url>
@@ -72,11 +68,6 @@
   <url>
     <loc>http://example.com/post/</loc>
     <lastmod>2017-11-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/project/</loc>
     <priority>0</priority>
   </url>
   
