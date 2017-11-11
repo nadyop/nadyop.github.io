@@ -11,13 +11,12 @@
     
     
     <item>
-      <title></title>
-      <link>http://example.com/about/project1/</link>
+      <title>Blog</title>
+      <link>http://example.com/about/about1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/about/project1/</guid>
-      <description>title: &amp;ldquo;Blog&amp;rdquo; description: &amp;ldquo;Hanya coretan bayangan&amp;rdquo; #repo: &amp;ldquo;/nadyop.github.io&amp;rdquo; # delete this line if you want blog-like posts for projects tags: [&amp;ldquo;go&amp;rdquo;, &amp;ldquo;golang&amp;rdquo;, &amp;ldquo;hugo&amp;rdquo;] weight: 1
-draft: true Kindly to check : https://github.com/nadyop/nadyop.github.io &amp;ndash;&amp;gt;</description>
+      <guid>http://example.com/about/about1/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -3,6 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.com/about/about1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://example.com/project/project1/</loc>
+  </url>
+  
+  <url>
     <loc>http://example.com/project/project2/</loc>
   </url>
   
@@ -14,10 +22,6 @@
   <url>
     <loc>http://example.com/post/creating-a-new-theme/</loc>
     <lastmod>2017-10-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.com/about/project1/</loc>
   </url>
   
   <url>
