@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Bootstrap</title>
-      <link>http://example.com/tags/bootstrap/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.com/tags/bootstrap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Creation</title>
       <link>http://example.com/tags/creation/</link>
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
@@ -35,24 +26,6 @@
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>http://example.com/tags/creator/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Css</title>
-      <link>http://example.com/tags/css/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.com/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development</title>
-      <link>http://example.com/tags/development/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.com/tags/development/</guid>
       <description></description>
     </item>
     
@@ -84,24 +57,6 @@
     </item>
     
     <item>
-      <title>Highlight Js</title>
-      <link>http://example.com/tags/highlight-js/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.com/tags/highlight-js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Html</title>
-      <link>http://example.com/tags/html/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.com/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hugo</title>
       <link>http://example.com/tags/hugo/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
@@ -111,65 +66,11 @@
     </item>
     
     <item>
-      <title>Jekyll</title>
-      <link>http://example.com/tags/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.com/tags/jekyll/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Js</title>
-      <link>http://example.com/tags/js/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.com/tags/js/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Muslim</title>
       <link>http://example.com/tags/muslim/</link>
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>http://example.com/tags/muslim/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Responsive</title>
-      <link>http://example.com/tags/responsive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.com/tags/responsive/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Static Site Generator</title>
-      <link>http://example.com/tags/static-site-generator/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.com/tags/static-site-generator/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Syntax Highlighting</title>
-      <link>http://example.com/tags/syntax-highlighting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.com/tags/syntax-highlighting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Template</title>
-      <link>http://example.com/tags/template/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.com/tags/template/</guid>
       <description></description>
     </item>
     
