@@ -6,7 +6,7 @@
     <description>Recent content on Hello World!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -45,6 +45,16 @@
       
       <guid>http://example.com/project/project4/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Cerita dulu</title>
+      <link>http://example.com/post/cerita-dulu/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/post/cerita-dulu/</guid>
+      <description> Kindly to check : bit.ly/nadyoplus
+Hanya coretan untuk berbagi ^^ $ Ada pengalaman sendiri $ Ada pengalaman teman $ Ada pengalaman sahabat $ Ada pengalaman fulan $ Ada pengalaman fulanah  </description>
     </item>
     
     <item>
