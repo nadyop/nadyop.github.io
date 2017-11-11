@@ -24,7 +24,7 @@ Hanya coretan untuk berbagi ^^ $ Ada pengalaman sendiri $ Ada pengalaman teman $
     <item>
       <title>Creating a New Theme</title>
       <link>http://example.com/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Oct 2017 00:00:00 +0000</pubDate>
       
       <guid>http://example.com/post/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
